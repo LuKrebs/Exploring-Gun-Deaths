@@ -11,11 +11,11 @@
   <li><code>race</code>the race of the victim. Either <code>Asian/Pacific Islander</code>, <code>Native American/Native Alaskan</code>, <code>Black</code>, <code>Hispanic</code>, or <code>White</code></li>
   <li><code>place</code> where the shooting occurred. Has several categories, which you're encouraged to explore on your own</li>
   <li><code>education</code>educational status of the victim. Can be one of the following:
-    <ol>  
+    <ul>  
       <li>1 -- Less than High School</li>
       <li>2 -- Graduated from High School or</li>
       <li>3 -- Some College</li>
       <li>4 -- At least graduated from College</li>
       <li>5 -- Not available</li>
-    <ol></li>
+    <ul></li>
 </ul>
